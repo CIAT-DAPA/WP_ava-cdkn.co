@@ -1,0 +1,71 @@
+------------------ VER 1.2.1 - Jul 30, 2013 -----------------
+Added: support with Wordpress 3.6 RC2
+Updated: language files
+Fixed: Paged blog
+
+------------------ VER 1.2 - January 15, 2013 -----------------
+1) Updated: italian translation
+2) Fixed: archives pages no longer shows only the excerpt. It handled by WP now.
+3) Fixed: When addded a new page, the Blog Sidebar is selected as default sidebar
+
+------------------ VER 1.1 -----------------
+1) Fixed: removed notices messages after update wordpress to 3.4
+2) Changed the premium landing in theme options
+
+
+
+------------------ VER 1.0.8 ---------------
+1) Fixed : warning shown by the update notifier system
+2) Fixed : bugs with admin panel
+
+
+------------------ VER 1.0.7 ---------------
+1) Fixed the homepage settings with the page for blog.
+2) Updated localization.
+
+
+------------------ VER 1.0.6 ---------------
+1) Fix sentences localizzated for number of comments.
+2) Changed url for remote live preview.
+3) Added link to the documentation.
+
+
+
+------------------ VER 1.0.5 ---------------
+1) Changed the default sidebars, creating new sidebar preset, that you can add it on editor pages.
+2) Fix bug on archives template page.
+3) Improve speed loading, especially for cufon libraries.
+
+
+
+------------------ VER 1.0.4 ---------------
+1) Fix clear floats on page content.
+2) Reactivated "Recent Posts" widget.
+3) Improve Code Quality.
+4) Fix some debug error.
+5) Fix the empty search query page, added message to reinsert new searchquery.
+6) Fix title on single page post.
+
+
+
+------------------ VER 1.0.3 ---------------
+1) Fix cufon js file.
+2) Fix bug with category pages.
+3) Fix bug with upload image on post and page editor.
+4) Added new tab for premium version of theme with support, screencast for the set end more...
+
+
+
+------------------ VER 1.0.2 ---------------
+1) Fix some bugs with template.
+2) Fix broken logo image settings.
+3) Improve testimonial admin post type.
+4) Change name of functions, global variables, constants and Classes.
+
+
+
+
+------------------ VER 1.0.1 ---------------
+1) Improved code quality.
+2) Improved html and css code.
+3) Improved Admin Panel, for better santized options.

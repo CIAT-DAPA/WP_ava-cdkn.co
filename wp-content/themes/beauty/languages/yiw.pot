@@ -1,0 +1,850 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kassyopea 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-30 15:49+0100\n"
+"PO-Revision-Date: 2013-07-30 15:49+0100\n"
+"Last-Translator: Antonio <antonino.scarfi@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:11
+msgid "error"
+msgstr ""
+
+#: 404.php:12
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:15
+msgid "We are sorry but the page you are looking for does not exist."
+msgstr ""
+
+#: 404.php:16
+msgid "You could retourn to the "
+msgstr ""
+
+#: 404.php:16
+msgid "or search using the search box below"
+msgstr ""
+
+#: archives.php:15
+msgid "Archives by Month"
+msgstr ""
+
+#: archives.php:20
+msgid "Archives by Subject"
+msgstr ""
+
+#: comments.php:13
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:30
+msgid "no comments"
+msgstr ""
+
+#: comments.php:30
+msgid "<span>1</span> comment"
+msgstr ""
+
+#: comments.php:30
+msgid "<span>%</span> comments"
+msgstr ""
+
+#: comments.php:35 comments.php:55
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: comments.php:36 comments.php:56
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: comments.php:61
+msgid "Trackback e pingback"
+msgstr ""
+
+#: comments.php:83
+msgid "No trackback or pingback available for this article"
+msgstr ""
+
+#: comments.php:95
+msgid "&nbsp;"
+msgstr ""
+
+#: comments.php:106 admin-options/backend.php:116
+#: admin-options/backend.php:156 includes/widgets/address_info.php:40
+msgid "Name"
+msgstr ""
+
+#: comments.php:108
+msgid "Email"
+msgstr ""
+
+#: comments.php:110
+msgid "Website"
+msgstr ""
+
+#: comments.php:118
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:119
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:124
+msgid "Leave a <span>Reply</span>"
+msgstr ""
+
+#: comments.php:125
+#, php-format
+msgid "Leave a <span>Reply</span> to %s"
+msgstr ""
+
+#: comments.php:126
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:127
+msgid "Post Comment"
+msgstr ""
+
+#: functions.php:19 functions.php:20 functions.php:21 functions.php:22
+#: functions.php:23
+msgid ""
+"Sidebar that you can select from the option 'Sidebar Page' on editor page."
+msgstr ""
+
+#: header.php:24
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: loop.php:12
+#, php-format
+msgid "Archive for the &#8216;%s&#8217; Category"
+msgstr ""
+
+#: loop.php:14
+#, php-format
+msgid "Posts Tagged &#8216;%s&#8217;"
+msgstr ""
+
+#: loop.php:16
+#, php-format
+msgid "Archive for %s | Daily archive page"
+msgstr ""
+
+#: loop.php:16
+msgid "F jS, Y"
+msgstr ""
+
+#: loop.php:18
+#, php-format
+msgid "Archive for %s | Monthly archive page"
+msgstr ""
+
+#: loop.php:18
+msgid "F Y"
+msgstr ""
+
+#: loop.php:20
+#, php-format
+msgid "Archive for %s | Yearly archive page"
+msgstr ""
+
+#: loop.php:20
+msgid "Y"
+msgstr ""
+
+#: loop.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: loop.php:24
+msgid "Author Archive"
+msgstr ""
+
+#: loop.php:26
+msgid "Blog Archives"
+msgstr ""
+
+#: loop.php:35
+msgid "(this post has no title)"
+msgstr ""
+
+#: loop.php:59
+msgid "posted by"
+msgstr ""
+
+#: loop.php:59
+msgid "on"
+msgstr ""
+
+#: loop.php:61
+msgid "No comments"
+msgstr ""
+
+#: loop.php:61
+msgid "1 comment"
+msgstr ""
+
+#: loop.php:61
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: loop.php:81
+msgid "|| Read more"
+msgstr ""
+
+#: loop.php:88
+msgid "Edit"
+msgstr ""
+
+#: loop.php:102
+msgid "Not Found"
+msgstr ""
+
+#: loop.php:104
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: loop.php:120
+msgid "Next &raquo;"
+msgstr ""
+
+#: loop.php:121
+msgid "&laquo; Back"
+msgstr ""
+
+#: sidebar-default.php:3
+msgid "Search"
+msgstr ""
+
+#: sidebar-default.php:8
+msgid "Archives"
+msgstr ""
+
+#: sidebar-default.php:15
+msgid "Categories"
+msgstr ""
+
+#: sidebar-default.php:33
+msgid "Blogroll"
+msgstr ""
+
+#: admin-options/arrays.php:4 admin-options/options/general-options.php:15
+msgid "General"
+msgstr ""
+
+#: admin-options/arrays.php:5
+msgid "Premium"
+msgstr ""
+
+#: admin-options/arrays.php:18
+msgid "Choose a category"
+msgstr ""
+
+#: admin-options/backend.php:40 admin-options/backend.php:43
+msgid "Testimonials"
+msgstr ""
+
+#: admin-options/backend.php:43
+msgid "Testimonial"
+msgstr ""
+
+#: admin-options/backend.php:55 admin-options/backend.php:58
+msgid "News"
+msgstr ""
+
+#: admin-options/backend.php:70 admin-options/backend.php:73
+msgid "Team"
+msgstr ""
+
+#: admin-options/backend.php:73
+msgid "Worker"
+msgstr ""
+
+#: admin-options/backend.php:73
+msgid "Workers"
+msgstr ""
+
+#: admin-options/backend.php:95 admin-options/backend.php:159
+msgid "Profile"
+msgstr ""
+
+#: admin-options/backend.php:95
+msgid "Profiles"
+msgstr ""
+
+#: admin-options/backend.php:117
+msgid "Image"
+msgstr ""
+
+#: admin-options/backend.php:118
+msgid "Story"
+msgstr ""
+
+#: admin-options/backend.php:157
+msgid "Photo"
+msgstr ""
+
+#: admin-options/backend.php:158
+msgid "Description"
+msgstr ""
+
+#: admin-options/backend.php:218
+msgid "Add New"
+msgstr ""
+
+#: admin-options/backend.php:219 admin-options/backend.php:246
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: admin-options/backend.php:220
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: admin-options/backend.php:221
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: admin-options/backend.php:222
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: admin-options/backend.php:223 admin-options/backend.php:240
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: admin-options/backend.php:224
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: admin-options/backend.php:225
+#, php-format
+msgid "No %s found in Trash"
+msgstr ""
+
+#: admin-options/backend.php:241
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: admin-options/backend.php:242
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: admin-options/backend.php:243
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: admin-options/backend.php:244
+msgid "Edit %"
+msgstr ""
+
+#: admin-options/backend.php:245
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: admin-options/backend.php:247
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: admin-options/dashboard.php:10
+msgid "Our latest themes"
+msgstr ""
+
+#: admin-options/dashboard.php:11
+msgid "News from the YIT Blog"
+msgstr ""
+
+#: admin-options/metaboxes.php:25
+msgid "Options of page"
+msgstr ""
+
+#: admin-options/metaboxes.php:26
+msgid "Slogan Page"
+msgstr ""
+
+#: admin-options/metaboxes.php:27
+msgid "Remove WpAutoP filter."
+msgstr ""
+
+#: admin-options/metaboxes.php:28
+msgid "Extra Content"
+msgstr ""
+
+#: admin-options/metaboxes.php:106
+msgid ""
+"You can configure this page as you want, setting these optional options."
+msgstr ""
+
+#: admin-options/metaboxes.php:113 admin-options/metaboxes.php:226
+msgid "Slogan page"
+msgstr ""
+
+#: admin-options/metaboxes.php:116
+msgid "Insert the slogan showed on top of this page/post."
+msgstr ""
+
+#: admin-options/metaboxes.php:122
+msgid "Show the title of this page"
+msgstr ""
+
+#: admin-options/metaboxes.php:124
+msgid "Yes"
+msgstr ""
+
+#: admin-options/metaboxes.php:125
+msgid "No"
+msgstr ""
+
+#: admin-options/metaboxes.php:128
+msgid "Layout Page"
+msgstr ""
+
+#: admin-options/metaboxes.php:145
+msgid "Select layout of page"
+msgstr ""
+
+#: admin-options/metaboxes.php:153
+msgid "Sidebar Page"
+msgstr ""
+
+#: admin-options/metaboxes.php:167
+msgid "Select sidebar of page"
+msgstr ""
+
+#: admin-options/metaboxes.php:187
+msgid "Remove 'wpautop' filter to main content."
+msgstr ""
+
+#: admin-options/metaboxes.php:203
+msgid ""
+"If you want, you can add some text to show above the footer, under content "
+"and sidebar."
+msgstr ""
+
+#: admin-options/metaboxes.php:207
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: admin-options/yiw_panel.php:7
+msgid "Theme Options"
+msgstr ""
+
+#: admin-options/yiw_panel.php:14
+msgid "settings saved"
+msgstr ""
+
+#: admin-options/yiw_panel.php:15
+msgid "settings reset"
+msgstr ""
+
+#: admin-options/yiw_panel.php:341
+msgid "Upload Image"
+msgstr ""
+
+#: admin-options/yiw_panel.php:366
+msgid "Click here to exand the categories"
+msgstr ""
+
+#: admin-options/yiw_panel.php:366
+msgid "Click here to expand the list"
+msgstr ""
+
+#: admin-options/yiw_panel.php:448
+msgid "Save Changes"
+msgstr ""
+
+#: admin-options/yiw_panel.php:452
+msgid ""
+"If you continue with this action, you will reset all options are in this "
+"page."
+msgstr ""
+
+#: admin-options/yiw_panel.php:454
+msgid "Reset Defaults"
+msgstr ""
+
+#: admin-options/yiw_panel.php:454
+msgid "Are you sure of it?"
+msgstr ""
+
+#: admin-options/yiw_panel.php:475 admin-options/yiw_panel.php:476
+msgid "this link"
+msgstr ""
+
+#: admin-options/yiw_panel.php:477
+msgid "Close"
+msgstr ""
+
+#: admin-options/include/premium-landing.php:11
+#: admin-options/include/premium-landing.php:17
+#: admin-options/include/premium-landing.php:20
+#: admin-options/include/premium-landing.php:26
+msgid "Why do you have to upgrade to the premium version?"
+msgstr ""
+
+#: admin-options/options/general-options.php:8
+msgid "General Settings"
+msgstr ""
+
+#: admin-options/options/general-options.php:17
+msgid "Manage the main settings for your theme."
+msgstr ""
+
+#: admin-options/options/general-options.php:20
+msgid "Active Logo Image"
+msgstr ""
+
+#: admin-options/options/general-options.php:21
+msgid ""
+"Set if you want to replace the 'Title' and 'description' options of header, "
+"with a logo image."
+msgstr ""
+
+#: admin-options/options/general-options.php:26
+msgid "Logo URL"
+msgstr ""
+
+#: admin-options/options/general-options.php:27
+msgid "Enter the URL to your logo image"
+msgstr ""
+
+#: admin-options/options/general-options.php:27
+#: admin-options/options/general-options.php:48
+#, php-format
+msgid "Get <a href=\"%s\">premium version</a> for update button."
+msgstr ""
+
+#: admin-options/options/general-options.php:33
+msgid "Logo Width"
+msgstr ""
+
+#: admin-options/options/general-options.php:34
+msgid "Enter the width of logo, expressed in pixel. (Leave 0 for default)"
+msgstr ""
+
+#: admin-options/options/general-options.php:40
+msgid "Logo Height"
+msgstr ""
+
+#: admin-options/options/general-options.php:41
+msgid "Enter the height of logo, expressed in pixel. (Leave 0 for default)"
+msgstr ""
+
+#: admin-options/options/general-options.php:47
+msgid "Custom Favicon"
+msgstr ""
+
+#: admin-options/options/general-options.php:48
+msgid ""
+"A favicon is a 16x16 pixel icon that represents your site; paste the URL to "
+"a .ico image that you want to use as the image"
+msgstr ""
+
+#: admin-options/options/general-options.php:54
+msgid "Custom Style"
+msgstr ""
+
+#: admin-options/options/general-options.php:55
+msgid "You can write here your custom css, that will replace the default css."
+msgstr ""
+
+#: admin-options/options/general-options.php:67
+msgid "Blog Settings"
+msgstr ""
+
+#: admin-options/options/general-options.php:69
+msgid "Manage the settings for blog template."
+msgstr ""
+
+#: admin-options/options/general-options.php:72
+msgid "Exclude categories"
+msgstr ""
+
+#: admin-options/options/general-options.php:73
+msgid "Select which categories you want exclude from blog."
+msgstr ""
+
+#: admin-options/options/general-options.php:77
+msgid "Blog Page"
+msgstr ""
+
+#: admin-options/options/general-options.php:77
+msgid "List cat. sidebar"
+msgstr ""
+
+#: admin-options/options/general-options.php:80
+msgid "Featured Images Alignment"
+msgstr ""
+
+#: admin-options/options/general-options.php:81
+msgid "Specific the featured images alignment"
+msgstr ""
+
+#: admin-options/options/general-options.php:91
+msgid "Featured Images Size"
+msgstr ""
+
+#: admin-options/options/general-options.php:92
+msgid "Specific the featured images size"
+msgstr ""
+
+#: admin-options/options/general-options.php:104
+msgid "Featured Images Width"
+msgstr ""
+
+#: admin-options/options/general-options.php:105
+msgid ""
+"Specific the featured images width, <strong>if you have selected custom size "
+"on option above.</strong>"
+msgstr ""
+
+#: admin-options/options/general-options.php:111
+msgid "Featured Images Height"
+msgstr ""
+
+#: admin-options/options/general-options.php:112
+msgid ""
+"Specific the featured images height, <strong>if you have selected custom "
+"size on option above.</strong>"
+msgstr ""
+
+#: admin-options/options/general-options.php:125
+msgid "Footer"
+msgstr ""
+
+#: admin-options/options/general-options.php:127
+msgid "Manage the settings for footer."
+msgstr ""
+
+#: admin-options/options/general-options.php:130
+msgid "Footer Type"
+msgstr ""
+
+#: admin-options/options/general-options.php:131
+msgid "Select the footer type for the theme"
+msgstr ""
+
+#: admin-options/options/general-options.php:135
+msgid "Two Columns Footer"
+msgstr ""
+
+#: admin-options/options/general-options.php:136
+msgid "Centered Footer"
+msgstr ""
+
+#: admin-options/options/general-options.php:140
+msgid "Footer centered text"
+msgstr ""
+
+#: admin-options/options/general-options.php:141
+msgid "Enter text used in <strong>centered footer</strong>. It can be HTML."
+msgstr ""
+
+#: admin-options/options/general-options.php:147
+msgid "Footer copyright text Left"
+msgstr ""
+
+#: admin-options/options/general-options.php:148
+msgid ""
+"Enter text used in the left side of the footer. It can be HTML. <strong>NB: "
+"not figured on 'centered footer'</strong>"
+msgstr ""
+
+#: admin-options/options/general-options.php:154
+msgid "Footer copyright text Right"
+msgstr ""
+
+#: admin-options/options/general-options.php:155
+msgid ""
+"Enter text used in the right side of the footer. It can be HTML. <strong>NB: "
+"not figured on 'centered footer'</strong>"
+msgstr ""
+
+#: admin-options/options/premium-options.php:7
+msgid "Buy the Premium version"
+msgstr ""
+
+#: includes/functions.php:30
+msgid ""
+"The theme you are using requires WordPress version 3.0 or higher. So, many "
+"features of it will not perform correctly."
+msgstr ""
+
+#: includes/functions.php:120
+msgid "Sea"
+msgstr ""
+
+#: includes/functions.php:126
+msgid "Flowers"
+msgstr ""
+
+#: includes/functions.php:132
+msgid "Portrait"
+msgstr ""
+
+#: includes/functions.php:138
+msgid "Heart"
+msgstr ""
+
+#: includes/functions.php:144
+msgid "Black & White"
+msgstr ""
+
+#: includes/functions.php:156
+msgid "Navigation"
+msgstr ""
+
+#: includes/functions.php:168
+msgid "The sidebar showed on Blog and single templates of posts."
+msgstr ""
+
+#: includes/functions.php:169
+msgid "The row below home content."
+msgstr ""
+
+#: includes/functions.php:356
+#, php-format
+msgid "%s "
+msgstr ""
+
+#: includes/functions.php:361
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/functions.php:370
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/functions.php:370 includes/functions.php:393
+msgid "(Edit)"
+msgstr ""
+
+#: includes/functions.php:393
+msgid "Pingback:"
+msgstr ""
+
+#: includes/widgets/address_info.php:8
+msgid "Widget with a simple address information."
+msgstr ""
+
+#: includes/widgets/address_info.php:13
+msgid "Address Info"
+msgstr ""
+
+#: includes/widgets/address_info.php:22
+msgid "Find Us"
+msgstr ""
+
+#: includes/widgets/address_info.php:34 includes/widgets/contact_info.php:31
+#: includes/widgets/last_news.php:103
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/address_info.php:46
+msgid "Address"
+msgstr ""
+
+#: includes/widgets/address_info.php:52
+msgid "Zip Code"
+msgstr ""
+
+#: includes/widgets/address_info.php:58
+msgid "State"
+msgstr ""
+
+#: includes/widgets/address_info.php:64
+msgid "City"
+msgstr ""
+
+#: includes/widgets/almost_all_categories.php:8
+msgid "Get list of categories, without categories excluded from options panel."
+msgstr ""
+
+#: includes/widgets/almost_all_categories.php:26
+msgid "Widget Title"
+msgstr ""
+
+#: includes/widgets/almost_all_categories.php:29
+msgid ""
+"Configure this widget on the Theme Option Admin, to exclude the categories "
+"from this list."
+msgstr ""
+
+#: includes/widgets/contact_info.php:8
+msgid "Widget with a simple contact information."
+msgstr ""
+
+#: includes/widgets/contact_info.php:13
+msgid "Contact Info"
+msgstr ""
+
+#: includes/widgets/contact_info.php:22
+msgid "Contacts"
+msgstr ""
+
+#: includes/widgets/contact_info.php:37
+msgid "Phone"
+msgstr ""
+
+#: includes/widgets/contact_info.php:43
+msgid "Fax"
+msgstr ""
+
+#: includes/widgets/last_news.php:9
+msgid "The last news."
+msgstr ""
+
+#: includes/widgets/last_news.php:63
+msgid "by"
+msgstr ""
+
+#: includes/widgets/last_news.php:109
+msgid "Items"
+msgstr ""
+
+#: includes/widgets/last_news.php:115
+msgid "Show date"
+msgstr ""
+
+#: includes/widgets/last_news.php:124
+msgid "Show author"
+msgstr ""
+
+#: includes/widgets/testimonials.php:9
+msgid ""
+"Add a slider testimonial on your widget which link a category to show the "
+"contents."
+msgstr ""

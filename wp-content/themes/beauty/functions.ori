@@ -1,0 +1,28 @@
+<?php
+/**
+ * @package WordPress
+ * @subpackage Kassyopea
+ * 
+ * Here the first hentry of theme, when all theme will be loaded.
+ * On new update of theme, you can not replace this file.
+ * You will write here all your custom functions, they remain after upgrade.
+ */                                                                               
+
+require_once dirname(__FILE__) . '/includes/functions.php';
+
+/*-----------------------------------------------------------------------------------*/
+/* End Theme Load Functions - You can add custom functions below */
+/*-----------------------------------------------------------------------------------*/         
+
+function yiw_register_additional_sidebars()
+{
+	register_sidebar( yiw_sidebar_args( 'Preset Sidebar 1', __( 'Sidebar that you can select from the option \'Sidebar Page\' on editor page.', 'yiw' ), 'widget', 'h2' ) );  
+	register_sidebar( yiw_sidebar_args( 'Preset Sidebar 2', __( 'Sidebar that you can select from the option \'Sidebar Page\' on editor page.', 'yiw' ), 'widget', 'h2' ) );  
+	register_sidebar( yiw_sidebar_args( 'Preset Sidebar 3', __( 'Sidebar that you can select from the option \'Sidebar Page\' on editor page.', 'yiw' ), 'widget', 'h2' ) );  
+	register_sidebar( yiw_sidebar_args( 'Preset Sidebar 4', __( 'Sidebar that you can select from the option \'Sidebar Page\' on editor page.', 'yiw' ), 'widget', 'h2' ) );  
+	register_sidebar( yiw_sidebar_args( 'Preset Sidebar 5', __( 'Sidebar that you can select from the option \'Sidebar Page\' on editor page.', 'yiw' ), 'widget', 'h2' ) );  
+	unregister_sidebar( 'home-row' );       
+}
+add_action( 'after_setup_theme', 'yiw_register_additional_sidebars' );  
+
+?>
